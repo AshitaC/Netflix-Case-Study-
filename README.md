@@ -1,2 +1,2 @@
-# Netflix-Case-Study---EDA-
- EDA 
+# Netflix - Case Study
+ Data Exploration and Visualization
