@@ -33,3 +33,29 @@ Duration: Total Duration - in minutes or number of seasons
 Listed_in: Genre
 
 Description: The summary description
+
+
+**Findings-**
+
+    Most of the content released was movies 66% and only 33% were TV shows.
+
+    USA produced most content followed by India.
+
+    Max content was uploaded in 2019.
+
+    Friday is the day of maximum uploaded content.
+
+    Second half of the year sees more content upload.
+
+    42 genres of movies and shows are available, most popular being Dramas.
+
+    Most movies have duration 70-120 mins.
+
+    Most TV shows have 1 season.
+
+    Most of the content is rated for adults followed by teens and very little for kids.
+
+
+
+     
+
