@@ -3,7 +3,7 @@
 ## Project Overview
 This project focuses on analyzing Netflix's vast collection of movies and TV shows using Python for data exploration and Tableau for visualizing the findings. It offers key insights into content trends, ratings distribution, genres, and the geographical spread of Netflix's shows and movies.
 
-##Features:
+## Features:
 
 Exploratory Data Analysis in Python:
 
