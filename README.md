@@ -57,4 +57,5 @@ Description: The summary description
 
 
 **Tableu**
-https://public.tableau.com/app/profile/ashita.chandnani/vizzes
+https://public.tableau.com/app/profile/ashita.chandnani/viz/NetflixDataAnalysis_17398574925520/Netflix
+
