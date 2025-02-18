@@ -1,61 +1,64 @@
-# Netflix - Case Study
+# Netflix Netflix Data Analysis: Python & Tableau
  
-**About NETFLIX**
+## Project Overview
+This project focuses on analyzing Netflix's vast collection of movies and TV shows using Python for data exploration and Tableau for visualizing the findings. It offers key insights into content trends, ratings distribution, genres, and the geographical spread of Netflix's shows and movies.
 
-Netflix is one of the most popular media and video streaming platforms. They have over 10000 movies or tv shows available on their platform, as of mid-2021, they have over 222M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
+##Features:
 
-**Business Problem**
+Exploratory Data Analysis in Python:
 
-Analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries
+Cleaned and prepared the dataset for analysis.
 
-The dataset consists of a list of all the TV shows/movies available on Netflix:
+Analyzed trends such as content type, release year, and movie duration.
 
-Show_id: Unique ID for every Movie / Tv Show
+Uncovered insights on content ratings (TV-MA, R, PG, etc.) and genres.
 
-Type: Identifier - A Movie or TV Show
+## Interactive Tableau Dashboard:
 
-Title: Title of the Movie / Tv Show
+Visualized the distribution of Netflix content across countries.
 
-Director: Director of the Movie
+Created top genres visualization and trends in TV shows and movies.
 
-Cast: Actors involved in the movie/show
+Highlighted ratings and the evolution of content across years.
 
-Country: Country where the movie/show was produced
+## Dataset
 
-Date_added: Date it was added on Netflix
-
-Release_year: Actual Release year of the movie/show
-
-Rating: TV Rating of the movie/show
-
-Duration: Total Duration - in minutes or number of seasons
-
-Listed_in: Genre
-
-Description: The summary description
+The dataset used contains the following fields:
 
 
-**Findings-**
+Type: Type of the content (Movie/TV Show)
 
-    Most of the content released was movies 66% and only 33% were TV shows.
+Title: Title of the content
 
-    USA produced most content followed by India.
+Duration: Duration of the movie or show
 
-    Max content was uploaded in 2019.
+Rating: Content rating (TV-MA, PG, etc.)
 
-    Friday is the day of maximum uploaded content.
+Country: Country of origin for the content
 
-    Second half of the year sees more content upload.
+Genre: Genres associated with the content
 
-    42 genres of movies and shows are available, most popular being Dramas.
+Release Year: Year the movie or TV show was released
 
-    Most movies have duration 70-120 mins.
+## Technologies Used
 
-    Most TV shows have 1 season.
+Python: Data cleaning, wrangling, and exploratory analysis
 
-    Most of the content is rated for adults followed by teens and very little for kids.
+Tableau: Data visualization and dashboard creation
 
+Pandas, Matplotlib, Seaborn: For in-depth statistical and graphical exploration in Python
 
-**Tableu**
+## Dashboard Preview
+
+Below is a snapshot of the dashboard created in Tableau:
+![image](https://github.com/user-attachments/assets/cee56d75-177c-4548-8e0d-0dab38e00182)
+
 https://public.tableau.com/app/profile/ashita.chandnani/viz/NetflixDataAnalysis_17398574925520/Netflix
+
+## Insights Uncovered:
+- Top Genres: Dramas, Documentaries, and Stand-Up Comedy dominate Netflix's content library.
+- Country Distribution: The United States leads in Netflix content production, followed by India and the UK.
+- Ratings Distribution: A large portion of the content is rated TV-MA and TV-14, with fewer content pieces in the G and PG categories.
+- Content Growth Over Time: Significant growth in both movies and TV shows, particularly after 2015.
+
 
